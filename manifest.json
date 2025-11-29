@@ -2,7 +2,7 @@
   "name": "角度換算ツール",
   "short_name": "角度換算",
   "description": "建設業向け角度・勾配自動計算ツール",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196F3",
