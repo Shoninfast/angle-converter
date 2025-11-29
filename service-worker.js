@@ -1,10 +1,10 @@
 const CACHE_NAME = 'angle-converter-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/script.js',
-  '/manifest.json'
+  './',
+  './index.html',
+  './style.css',
+  './script.js',
+  './manifest.json'
 ];
 
 // インストール時: キャッシュ作成
